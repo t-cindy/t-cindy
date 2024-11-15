@@ -1,7 +1,7 @@
 ## Hi there 👋😆
 
 - 👩🏻‍🎓 I recently graduated from Lehigh University with a dual degree in Cognitive Science & Computer Science.
-- 💡✨ I'm interested in impactful applications of technology, specifically positive social impact!
+- ✨ I'm interested in impactful applications of technology, specifically positive social impact!
 - 🔭 I’m currently working on some fun personal projects!
 - 🌱 I’m currently learning JavaScript, TypeScript, & R.
 - 🤔 I’m looking for help with UI/UX design.
