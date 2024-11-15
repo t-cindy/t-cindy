@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript, TypeScript, & R.
 - 🤔 I’m looking for help with UI/UX design.
 - 🐛 TTM about: Sonnies, animals, books, music, true-crime ...
-- 📫 How to reach me: Connect with me on <a href="https://linkedin.com/in/cindy-e-tran" target="blank">LinkedIn</a>
+- 📫 How to reach me: Connect with me on <a href="https://linkedin.com/in/cindy-e-tran" target="blank">LinkedIn</a>!
 <!--
 **t-cindy/t-cindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
