@@ -1,12 +1,4 @@
-## Hi there 👋😆
 
-- 👩🏻‍🎓 I recently graduated from Lehigh University with a dual degree in Cognitive Science & Computer Science.
-- ✨ I'm interested in impactful applications of technology, specifically positive social impact!
-- 🔭 I’m currently working on some fun personal projects!
-- 🌱 I’m currently learning JavaScript, TypeScript, & R.
-- 🤔 I’m looking for help with UI/UX design.
-- 🐛 TTM about: Sonnies, animals, books, music, true-crime ...
-- 📫 How to reach me: Connect with me on <a href="https://linkedin.com/in/cindy-e-tran" target="blank">LinkedIn</a>!
 <!--
 **t-cindy/t-cindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
